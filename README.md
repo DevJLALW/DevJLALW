@@ -1,6 +1,6 @@
 # Hi, I'm Jyoti Lalwani 👋
 
-🚀 Software Engineer | Java | Spring Boot | Microservices | DevOps  
+🚀 Software Engineer | Java | Spring Boot | Microservices | DevOps | SDLC  
 📍 Germany | Open to Software Engineering roles  
 
 ---
