@@ -1,7 +1,7 @@
 # Hi, I'm Jyoti Lalwani 👋
 
-🚀 Software Engineer | Java | Spring Boot | Microservices | Distributed Systems | Observability | DevOps | SDLC  
-📍 Germany | Open to Software Engineering roles  
+🚀 Software Engineer - Java - Spring Boot - Microservices - Distributed Systems - Observability - DevOps - SDLC  
+📍 Germany - Open to Software Engineering roles  
 
 ---
 
@@ -9,7 +9,7 @@
 - 10+ years of experience in software development across Finance & Enterprise systems  
 - Strong expertise in **Java, Spring Boot, Microservices, Distributed Systems**  
 - Passionate about **scalable architecture, DevOps, and automation**  
-- MSc in Applied Computer Science, SRH University Heidelberg (Germany) Graduated March 2026 | Grade: 1.3
+- MSc in Applied Computer Science, SRH University Heidelberg (Germany) Graduated March 2026 - Grade: 1.3
 
 ---
 
@@ -26,7 +26,7 @@
 ## 🔥 Featured Projects
 
 ### 🛒 ShopVerse – Microservices E-commerce Platform
-👉 https://github.com/DevJLALW/shopverse-services  
+👉 [E-commerce](https://github.com/DevJLALW/shopverse-services)
 - Architected a **cloud-native microservices platform** using Java, Spring Boot, Spring Cloud, PostgreSQL, and Apache Kafka  
 - Designed a **scalable, fault-tolerant architecture** with OAuth2-secured API Gateway, Eureka service discovery, and Redis caching  
 - Implemented **event-driven communication using Kafka** for decoupled and asynchronous workflows  
@@ -37,7 +37,7 @@
 ---
 
 ### 🧠 Image Caption Generator (Deep Learning)
-👉 https://github.com/DevJLALW/ImageCaptionGeneratorCustomCNNWithLSTM  
+👉 [Image Caption Generator](https://github.com/DevJLALW/ImageCaptionGeneratorCustomCNNWithLSTM)
 - Designed an **image captioning model using a custom CNN + LSTM encoder–decoder architecture**  
 - Extracted image features using a **deep CNN (4096-d embeddings)** and generated captions via sequence modeling  
 - Trained on **Flickr8k (captions)** and **STL-10 (image feature pretraining)** datasets  
@@ -46,8 +46,8 @@
 
 ---
 
-### 📱 Mobile Applications
-👉 https://github.com/DevJLALW/MobileApplications  
+### 📱 Mobile Applications - Food Delivery App
+👉 [Food Delivery App](https://github.com/DevJLALW/MobileApplications)  
 - Cross-platform mobile application built using **Kotlin Multiplatform & Jetpack Compose**  
 - Implements **MVVM architecture** with RoomDB for offline data persistence  
 - Features include **user authentication, location-based delivery, camera integration, and text-to-speech accessibility**  
@@ -56,7 +56,7 @@
 ---
   
 ### 🔍 Image Search Engine (AI + Metadata)
-👉 https://github.com/DevJLALW/image-search-app  
+👉 [Image Search Engine](https://github.com/DevJLALW/image-search-app)
 - Metadata-driven search system  
 - AI-powered image processing  
 - Fast retrieval system with indexing  
@@ -64,7 +64,7 @@
 ---
 
 ### 🏥 Medical Management System
-👉 https://github.com/DevJLALW/MedicalManagementSystem  
+👉 [MedicalManagementSystem](https://github.com/DevJLALW/MedicalManagementSystem)  
 - Full-stack healthcare system  
 - CRUD operations with structured backend  
 
