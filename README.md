@@ -1,6 +1,6 @@
 # Hi, I'm Jyoti Lalwani 👋
 
-🚀 Software Engineer | Java | Spring Boot | Microservices | DevOps | SDLC  
+🚀 Software Engineer | Java | Spring Boot | Microservices | Distributed Systems | Observability | DevOps | SDLC  
 📍 Germany | Open to Software Engineering roles  
 
 ---
@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Tech Stack
-**Backend:** Java, Spring Boot, REST APIs  
+**Backend:** Java, Spring Boot, REST APIs, Kotlin  
 **DevOps:** Docker, Kubernetes, Jenkins, CI/CD  
 **DB:** SQL, NoSQL, Redis, MongoDB 
 **Cloud:** GCP (App Engine, Vertex AI) , AWS
@@ -27,13 +27,34 @@
 
 ### 🛒 ShopVerse – Microservices E-commerce Platform
 👉 https://github.com/DevJLALW/shopverse-services  
-- Cloud-native microservices architecture  
-- API Gateway with OAuth2 security  
-- Kafka-based event-driven communication  
-- Kubernetes deployment  
+- Architected a **cloud-native microservices platform** using Java, Spring Boot, Spring Cloud, PostgreSQL, and Apache Kafka  
+- Designed a **scalable, fault-tolerant architecture** with OAuth2-secured API Gateway, Eureka service discovery, and Redis caching  
+- Implemented **event-driven communication using Kafka** for decoupled and asynchronous workflows  
+- Containerized services using Docker and deployed on **Kubernetes for scalable and reliable orchestration**  
+- Integrated **observability stack (Zipkin, Prometheus, Grafana)** for distributed tracing and monitoring  
+- Applied **Resilience4j circuit breaker pattern** to improve fault tolerance and system stability  
 
 ---
 
+### 🧠 Image Caption Generator (Deep Learning)
+👉 https://github.com/DevJLALW/ImageCaptionGeneratorCustomCNNWithLSTM  
+- Designed an **image captioning model using a custom CNN + LSTM encoder–decoder architecture**  
+- Extracted image features using a **deep CNN (4096-d embeddings)** and generated captions via sequence modeling  
+- Trained on **Flickr8k (captions)** and **STL-10 (image feature pretraining)** datasets  
+- Optimized using **Adam optimizer with categorical cross-entropy**, incorporating dropout and early stopping  
+- Evaluated model performance using **BLEU scores for caption quality assessment** 
+
+---
+
+### 📱 Mobile Applications
+👉 https://github.com/DevJLALW/MobileApplications  
+- Cross-platform mobile application built using **Kotlin Multiplatform & Jetpack Compose**  
+- Implements **MVVM architecture** with RoomDB for offline data persistence  
+- Features include **user authentication, location-based delivery, camera integration, and text-to-speech accessibility**  
+- Supports **multi-language (English & German)** for enhanced user experience 
+
+---
+  
 ### 🔍 Image Search Engine (AI + Metadata)
 👉 https://github.com/DevJLALW/image-search-app  
 - Metadata-driven search system  
@@ -49,18 +70,11 @@
 
 ---
 
-### 🧠 Image Caption Generator (Deep Learning)
-👉 https://github.com/DevJLALW/ImageCaptionGeneratorCustomCNNWithLSTM  
-- CNN + LSTM model  
-- Generates captions from images  
-
----
-
 ## 💼 Experience Highlights
-- Built **semantic code analysis platform** (1000+ repos) at SAP  
+- Built **semantic code analysis platform** (1000+ repos) at SAP
+- Delivered scalable enterprise microservices across finance domain  
 - Build Scalable microservices at Accenture
 - Automated CI/CD pipelines reducing deployment time by **90%**  
-- Delivered scalable enterprise microservices across finance domain  
 
 ---
 
