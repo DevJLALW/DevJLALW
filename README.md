@@ -10,6 +10,7 @@
 - Strong expertise in **Java, Spring Boot, Microservices, Distributed Systems**  
 - Passionate about **scalable architecture, DevOps, and automation**  
 - MSc in Applied Computer Science, SRH University Heidelberg (Germany) Graduated March 2026 - Grade: 1.3
+- 🏆 **STIBET-I Graduation Scholarship (2025)** – awarded for strong academic performance
 
 ---
 
